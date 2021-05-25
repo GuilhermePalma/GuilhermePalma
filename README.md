@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 ### Versões em outros Idiomas :books:
    - [English](English_README.md)
-   - [Français](Français_README.md.md)
+   - [Français](Français_README.md)
 ---
 ### Atualemte, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC
 
