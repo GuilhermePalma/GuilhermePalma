@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Estudante do 3° Ensimo Medio
 
 ---
+### Versões em outros Idiomas :books:
+   - [English](English_README.md)
+   - [Français](Français_README.md.md)
+---
 ### Atualemte, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC
 
 - 📚 Estou estudando sobre **Java** (Android), **Flutter** (Multiplataforma Mobile), Backend em **ASP.NET Framework** e **WindowsForms**(C#)
