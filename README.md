@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 ##  Oiee, Tudo Bem ? 👋
 
-###  Me chamo Guilherme Palma, tenho 17 anos :smile::computer: 
+###  Me chamo Guilherme Palma, tenho 17 anos :grin::computer: 
 - 😄 Pronomes: Ele/Dele/o
 - ⚡ Estudante do 3° Ensimo Medio
 
----
-### Versões em outros Idiomas :books:
+## :books: Versões em outros Idiomas 
    - [English](English_README.md)
    - [Français](Français_README.md)
----
-### Atualemte, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC
+
+## 💬 Sobre mim
+### Atualemte, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC :school_satchel:
 
 - 📚 Estou estudando sobre **Java** (Android), **Flutter** (Multiplataforma Mobile), Backend em **ASP.NET Framework** e **WindowsForms**(C#)
 <br>
@@ -45,10 +45,16 @@ Here are some ideas to get you started:
     - [Validação - View Tipada](https://github.com/GuilhermePalma/Projetos_ASP.NET/tree/main/ValidacaoMVC)
 <br>
 
-  :newspaper: Alguns Projetos **C#** :
+  :newspaper:  Alguns Projetos **C#** :
   - **WindowsForms**
     - [Locadora de Veiculos](https://github.com/GuilhermePalma/locadora_veiculos) - *🚧 Em Desenvolvimento 🚧*
 
 
+## :chart_with_upwards_trend: Estatisticas
 
-
+<br>
+<p align="center">
+   <a href="https://github.com/GuilhermePalma?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma" />
+   </a>
+</p>
