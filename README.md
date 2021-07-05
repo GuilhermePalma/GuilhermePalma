@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ###  Me chamo Guilherme Palma, tenho 17 anos :grin::computer: 
 - 😄 Pronomes: Ele/Dele/o
-- ⚡ Estudante do 3° Ensimo Medio
+- ⚡ Estudante do 3° Ensino Medio
 
 <p align="center">
    <a href="https://github.com/GuilhermePalma">
@@ -32,24 +32,28 @@ Here are some ideas to get you started:
 ## 💬 Sobre mim
 ### Atualemte, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC :school_satchel:
 
-- 📚 Estou estudando sobre **Java** (Android), **Flutter** (Multiplataforma Mobile), Backend em **ASP.NET Framework** e **WindowsForms**(C#)
+- 🔭 Estou estudando sobre **Java** (Android), **Flutter** (Multiplataforma Mobile), Backend em **ASP.NET Framework** e **WindowsForms** (C#)
+
 <br>
 
   :iphone: Alguns Projetos Mobile 
+  
   - **Flutter**
     - [Contador de Cliques](https://github.com/GuilhermePalma/Apps-With-Flutter/tree/master/app_setstate)
-    - [Projeto Pela Vida](https://github.com/GuilhermePalma/pela_vida)
+    - [Projeto Pela Vida](https://github.com/GuilhermePalma/pela_vida) - *🚧 Em Atualização 🚧*
     - [Relogio Pomodoro](https://github.com/GuilhermePalma/Apps-With-Flutter/tree/master/Relogio_Pomodoro) - *🚧 Em Desenvolvimento 🚧*
     
   - **Java**
+    - [API - Makeup](https://github.com/GuilhermeCallegari/Maquiagem)
     - [Recycler View](https://github.com/GuilhermePalma/RecycleView) - *🚧 Em Desenvolvimento 🚧*
-    - [API - Makeup](https://github.com/GuilhermeCallegari/Maquiagem) - *🚧 Em Desenvolvimento 🚧*
+ 
  <br>
  
   :hammer: Alguns Projetos **ASP.NET** :
   - **ASP.NET Framework**
     - [Fundamentos ASP.NET](https://github.com/GuilhermePalma/Projetos_ASP.NET/tree/main/GuilhermePalma/GuilhermeApp) - *🚧 Em Desenvolvimento 🚧*
     - [Validação - View Tipada](https://github.com/GuilhermePalma/Projetos_ASP.NET/tree/main/ValidacaoMVC)
+
 <br>
 
   :newspaper:  Alguns Projetos **C#** :
@@ -57,7 +61,7 @@ Here are some ideas to get you started:
     - [Locadora de Veiculos](https://github.com/GuilhermePalma/locadora_veiculos) - *🚧 Em Desenvolvimento 🚧*
 
 
-## :chart_with_upwards_trend: Estatisticas
+## :chart_with_upwards_trend: Estatísticas
 
 <br>
 
@@ -72,4 +76,3 @@ Here are some ideas to get you started:
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma&langs_count=6&layout=compact" />
    </a>
 </p>
-
