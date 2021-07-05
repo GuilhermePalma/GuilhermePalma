@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ele/Dele/o
 - ⚡ Estudante do 3° Ensimo Medio
 
+<p align="center">
+   <a href="https://github.com/GuilhermePalma">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermePalma&count_private=true&show_icons=true&hide=issues" />
+   </a>
+</p>
+
+
 ## :books: Versões em outros Idiomas 
    - [English](English_README.md)
    - [Français](Français_README.md)
@@ -53,8 +60,16 @@ Here are some ideas to get you started:
 ## :chart_with_upwards_trend: Estatisticas
 
 <br>
+
 <p align="center">
-   <a href="https://github.com/GuilhermePalma?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma" />
+   <a href="https://wakatime.com/@guilhermePalma">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&layout=compact" />
    </a>
 </p>
+
+<p align="center">
+   <a href="https://github.com/GuilhermePalma?tab=repositories">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma&langs_count=6&layout=compact" />
+   </a>
+</p>
+
