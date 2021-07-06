@@ -1,8 +1,4 @@
-<!--
-**GuilhermePalma/GuilhermePalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!--✨
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,8 +6,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 ##  Oiee, Tudo Bem ? 👋
 
 ###  Me chamo Guilherme Palma, tenho 17 anos :grin::computer: 
@@ -19,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Estudante do 3° Ensino Medio
 
 <p align="center">
-   <a href="https://github.com/GuilhermePalma">
+   <a href="https://github.com/GuilhermePalma" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermePalma&count_private=true&show_icons=true&hide=issues" />
    </a>
 </p>
@@ -30,12 +25,11 @@ Here are some ideas to get you started:
    - [Français](Français_README.md)
 
 ## 💬 Sobre mim
-### Atualemte, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC :school_satchel:
+### Atualmente, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC :school_satchel:
 
 - 🔭 Estou estudando sobre **Java** (Android), **Flutter** (Multiplataforma Mobile), Backend em **ASP.NET Framework** e **WindowsForms** (C#)
 
-<br>
-
+## 🌱 Projetos
   :iphone: Alguns Projetos Mobile 
   
   - **Flutter**
@@ -66,13 +60,13 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-   <a href="https://wakatime.com/@guilhermePalma">
+   <a href="https://wakatime.com/@guilhermePalma" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&layout=compact" />
    </a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/GuilhermePalma?tab=repositories">
+   <a href="https://github.com/GuilhermePalma?tab=repositories" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma&langs_count=6&layout=compact" />
    </a>
 </p>
