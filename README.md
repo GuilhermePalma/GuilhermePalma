@@ -21,8 +21,8 @@
 
 
 ## :books: Versões em outros Idiomas 
-   - [English](English_README.md)
-   - [Français](Français_README.md)
+   - [English Version Here](English_README.md)
+   - [Version Française Ici](Français_README.md)
 
 ## 💬 Sobre mim
 ### Atualmente, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC :school_satchel:
