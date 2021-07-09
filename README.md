@@ -6,66 +6,68 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+<a href="https://github.com/GuilhermePalma" target="_blank"><img alt="kevinjycui" src="https://badges.pufler.dev/visits/GuilhermePalma/GuilhermePalma?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/kevinjycui/kevinjycui" target="_blank"><img alt="Ultima Atualização desse Repositorio" src="https://img.shields.io/github/last-commit/GuilhermePalma/GuilhermePalma?label=Last%20Update&style=flat-square"></a> -->
+
 ##  Oiee, Tudo Bem ? 👋
 
-###  Me chamo Guilherme Palma, tenho 17 anos :grin::computer: 
-- 😄 Pronomes: Ele/Dele/o
-- ⚡ Estudante do 3° Ensino Medio
+<h2 align="center" id="home"><samp>Me chamo</samp> <a href="#home">Guilherme Palma</a> :smiley::computer: </h2>
+
+<h4 align="center">
+   <br>
+   <samp>:star2: Técnico em Análise e Desenvolvimento de Sistemas - :closed_book: <b>ETEC Basilides Godoy</b> :star2:</samp>
+   <br>
+</h4>
 
 <p align="center">
-   <a href="https://github.com/GuilhermePalma" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermePalma&count_private=true&show_icons=true&hide=issues" />
-   </a>
+   
 </p>
 
+<details align="center">
+   <summary><samp>&#9776; Detalhes</samp></summary>
+   
+   <p align="center">
+     <br>
+      <a href="https://github.com/GuilhermePalma?tab=repositories" target="_blank">
+         <img alt="Repositorios" src="https://img.shields.io/badge/-REPOs-000000?style=for-the-badge&logo=Plex&logoColor=yellow">
+      </a>
+      <a href="https://github.com/GuilhermePalma?tab=repositories&language=java" target="_blank">
+         <img alt="Java Android" src="https://img.shields.io/badge/-Android-c4c4c4?style=for-the-badge&logo=Android&logoColor=sucess">
+      </a>
+      <a href="https://github.com/GuilhermePalma?tab=repositories&language=dart" target="_blank">
+        <img alt="Flutter e Dart" src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=Dart&logoColor=f6f6f6">
+      </a>
+      <a href="https://github.com/GuilhermePalma?tab=repositories&language=c#" target="_blank">
+         <img alt="C#" src="https://img.shields.io/badge/-C%23-b07219?style=for-the-badge&logo=Csharp&logoColor=f6f6f6">
+      </a>
+      <a href="https://github.com/GuilhermePalma?tab=repositories&language=javascript" target="_blank">
+         <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=for-the-badge&logo=Javascript&logoColor=white">
+      </a>
+     <a href="https://github.com/GuilhermePalma" target="_blank">
+         <img alt="Estatisticas GitHub" align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermePalma&count_private=true&show_icons=true&hide=issues" />
+     </a>
+   </p>
+   <br/>
+      
+   <p align="center">
+      :page_with_curl: Acesse meu <a target="_blank" href="#home">Currículo</a>
+      <br/>
+      <a href="https://github.com/GuilhermePalma/GuilhermePalma/blob/main/English_README.md">English Version Here</a> or <a href="https://github.com/GuilhermePalma/GuilhermePalma/blob/main/Français_README.md">Version Française Ici</a>
+   </p>
+</details>
 
-## :books: Versões em outros Idiomas 
-   - [English Version Here](English_README.md)
-   - [Version Française Ici](Français_README.md)
 
 ## 💬 Sobre mim
 ### Atualmente, estou cursando Tecnico de Analise e Desenvolvimento de Sistema - ETEC :school_satchel:
-
-- 🔭 Estou estudando sobre **Java** (Android), **Flutter** (Multiplataforma Mobile), Backend em **ASP.NET Framework** e **WindowsForms** (C#)
-
-## 🌱 Projetos
-  :iphone: Alguns Projetos Mobile 
-  
-  - **Flutter**
-    - [Contador de Cliques](https://github.com/GuilhermePalma/Apps-With-Flutter/tree/master/app_setstate)
-    - [Projeto Pela Vida](https://github.com/GuilhermePalma/pela_vida) - *🚧 Em Atualização 🚧*
-    - [Relogio Pomodoro](https://github.com/GuilhermePalma/Apps-With-Flutter/tree/master/Relogio_Pomodoro) - *🚧 Em Desenvolvimento 🚧*
-    
-  - **Java**
-    - [API - Makeup](https://github.com/GuilhermeCallegari/Maquiagem)
-    - [Recycler View](https://github.com/GuilhermePalma/RecycleView) - *🚧 Em Desenvolvimento 🚧*
- 
- <br>
- 
-  :hammer: Alguns Projetos **ASP.NET** :
-  - **ASP.NET Framework**
-    - [Fundamentos ASP.NET](https://github.com/GuilhermePalma/Projetos_ASP.NET/tree/main/GuilhermePalma/GuilhermeApp) - *🚧 Em Desenvolvimento 🚧*
-    - [Validação - View Tipada](https://github.com/GuilhermePalma/Projetos_ASP.NET/tree/main/ValidacaoMVC)
-
-<br>
-
-  :newspaper:  Alguns Projetos **C#** :
-  - **WindowsForms**
-    - [Locadora de Veiculos](https://github.com/GuilhermePalma/locadora_veiculos) - *🚧 Em Desenvolvimento 🚧*
-
+- 🔭 Estou estudando sobre **Java** (Android), **Flutter** (Multiplataforma), Backend em **ASP.NET Framework** e **WindowsForms** (C#)
+- :clipboard: [Veja meus Projetos](Projects.md)
 
 ## :chart_with_upwards_trend: Estatísticas
-
-<br>
-
 <p align="center">
    <a href="https://wakatime.com/@guilhermePalma" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&line_height=30&langs_count=3" width="500" height="250"/>
    </a>
-</p>
-
-<p align="center">
    <a href="https://github.com/GuilhermePalma?tab=repositories" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma&langs_count=6&layout=compact" />
    </a>
