@@ -38,7 +38,7 @@
       <a href="https://github.com/GuilhermePalma?tab=repositories&language=dart" target="_blank">
         <img alt="Flutter e Dart" src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=Dart&logoColor=f6f6f6">
       </a>
-      <a href="https://github.com/GuilhermePalma?tab=repositories&language=c#" target="_blank">
+      <a href="https://github.com/GuilhermePalma?tab=repositories&language=c%23" target="_blank">
          <img alt="C#" src="https://img.shields.io/badge/-C%23-b07219?style=for-the-badge&logo=Csharp&logoColor=f6f6f6">
       </a>
       <a href="https://github.com/GuilhermePalma?tab=repositories&language=javascript" target="_blank">
