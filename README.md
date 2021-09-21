@@ -62,13 +62,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
                     src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker" />
          </ul>
          <li>🔥 <b>Interessado em Aprender:</b> Flutter, TypeScript, Kotlin, HTML/CSS, JavaScript, Pyton e Machine Learning</li>
-         <li>🌎 Onde me encontrar</li>
-         <ul>
+         <li>🌎 Onde me encontrar: &nbsp;&nbsp; 
             <a href="mailto:guippalma@gmail.com" target="_blank"><img alt="Email" 
                     src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red" /></a>
             <a href="mailto:guilherme.palma8@etec.sp.gov.br" target="_blank"><img alt="Email" 
                     src="https://img.shields.io/badge/Microsoft_Outlook-333333?style=flat-square&logo=microsoft-outlook&logoColor=blue" /></a>  
-         </ul>
+         </li>
       </ul>
    </div>
    
@@ -97,18 +96,19 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
 <div align="center">   
    
    <a href="https://wakatime.com/@guilhermePalma" target="_blank">
-      <img align="center" height="190"
+      <img align="center"
            src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&langs_count=7&layout=compact" />
    </a>
+   
+   <p></p>
+   
    <a href="https://github.com/GuilhermePalma?tab=repositories" target="_blank">
-      <!--JavaScript foi retirado das Linguagens mais Usadas, pois ele só esta sendo 
-         criado nos repositorios ASP.NET, mas não estou programando -->
+      <!--JavaScript foi retirado das Linguagens mais Usadas, pois ele só esta sendo criado nos repositorios ASP.NET, mas não estou programando -->
       <img align="center"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma&langs_count=6&layout=compact&hide=javascript" />
    </a>
    
-   <br />
-   <br />
+   <p></p>
    
    <a title="Repositorios" href="https://github.com/GuilhermePalma?tab=repositories" target="_blank">
       <img height="40" alt="Repositorios" 
