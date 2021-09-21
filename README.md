@@ -95,6 +95,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
 
 <div align="center">   
    
+   ![Dados de Commits](github-metrics.svg)
+
+   <p></p>
+   
    <a href="https://wakatime.com/@guilhermePalma" target="_blank">
       <img align="center"
            src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&langs_count=7&layout=compact" />
@@ -107,7 +111,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
       <img align="center"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma&langs_count=6&layout=compact&hide=javascript" />
    </a>
-   
+    
    <p></p>
    
    <a title="Repositorios" href="https://github.com/GuilhermePalma?tab=repositories" target="_blank">
