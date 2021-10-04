@@ -17,13 +17,15 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
       <ul>
          <li>🚀 <b>Skills:</b></li>
          <ul>
-            <li><b>Aplicações e Dados</b></li>
+            <li><b>Linguagens e Frameworks</b></li>
             <img alt="Java" 
                  src="https://img.shields.io/badge/-Java%20(Android)-333333?style=flat-square&logo=Android&logoColor=sucess" /> 
             <img alt="C#" 
-                 src="https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=f6f6f6" />
+                 src="https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green" />
             <img alt="ASP .NET" 
-                 src="https://img.shields.io/badge/-Asp%20.NET-333333?style=flat-square&logo=.net&logoColor=ffffff" />
+                 src="https://img.shields.io/badge/-ASP%20.NET-333333?style=flat-square&logo=.net&logoColor=ffffff" />
+            <img alt="PHP" 
+                 src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=sucess" />
             <img alt="MySQL" 
                  src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL" />
             <img alt="SQLite" 
@@ -41,8 +43,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
                     src="https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=VisualStudio&logoColor=cc00cc" />
                <img alt="Visual Studio Code" 
                     src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=VisualStudioCode&logoColor=blue" />
-               <img alt="Trello" 
-                    src="https://img.shields.io/badge/-Trello-333333?style=flat-square&logo=trello&logoColor=blue" />
                <img alt="Eclipse" 
                     src="https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse&logoColor=cc55cc" />
          </ul>
@@ -52,6 +52,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
                     src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git" />
                <img alt="GitHub" 
                     src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github" /> 
+               <img alt="Trello" 
+                    src="https://img.shields.io/badge/-Trello-333333?style=flat-square&logo=trello&logoColor=blue" />
                <img alt="Heroku" 
                     src="https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=cc00cc" />
                <img alt="Postman" 
@@ -61,7 +63,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
                <img alt="Docker" 
                     src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker" />
          </ul>
-         <li>🔥 <b>Interessado em Aprender:</b> Flutter, TypeScript, Kotlin, HTML/CSS, JavaScript, Pyton e Machine Learning</li>
+   <br />
          <li>🌎 Onde me encontrar: &nbsp;&nbsp; 
             <a href="mailto:guippalma@gmail.com" target="_blank"><img alt="Email" 
                     src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red" /></a>
@@ -103,16 +105,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
       <img align="center"
            src="https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&langs_count=7&layout=compact" />
    </a>
-   
-   <p></p>
-   
-   <a href="https://github.com/GuilhermePalma?tab=repositories" target="_blank">
-      <!--JavaScript foi retirado das Linguagens mais Usadas, pois ele só esta sendo criado nos repositorios ASP.NET, mas não estou programando -->
-      <img align="center"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermePalma&langs_count=6&layout=compact&hide=javascript" />
-   </a>
     
-   <p></p>
+   <br />
+   <br />
+   <br />
    
    <a title="Repositorios" href="https://github.com/GuilhermePalma?tab=repositories" target="_blank">
       <img height="40" alt="Repositorios" 
