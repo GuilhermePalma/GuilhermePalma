@@ -1,22 +1,24 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 # Copiado a partir de: https://metrics.lecoq.io
 name: Metrics
 on:
-  # Schedule updates (each day)
-  schedule: [{cron: "* 23 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Executa Todo dia as 00:00 ---> https://crontab.guru/every-day
+  schedule: [{cron: "0 0 * * *"}]
+  # É executado ao relizar um Push para "main"\"master ou Manualmente
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+
+# Executa os Trabalhos
 jobs:
   github-metrics:
+    # Define o Sistema Operacional que será executado
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # Meu GitHub Token (Usado para a geração)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Configurando o .SVG 
           user: guilhermepalma
           template: classic
           base: ""
