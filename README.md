@@ -36,7 +36,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
                  src="https://img.shields.io/badge/-JUnit-333333?style=flat&logo=jest" />
          </ul>
          <ul>
-            <li><b>Ferramentas de Desenvolvimento</b></li>
+            <li><b>Ferramentas de Desenvolvimento (IDEs e Editores de Codigo)</b></li>
                <img alt="Android Studio" 
                     src="https://img.shields.io/badge/-Android%20Studio-333333?style=flat-square&logo=AndroidStudio" /> 
                <img alt="Visual Studio" 
