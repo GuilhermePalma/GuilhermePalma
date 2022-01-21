@@ -135,7 +135,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
    </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="C#" href="https://github.com/GuilhermePalma?tab=c%23" target="_blank">
+   <a title="C#" href="https://github.com/GuilhermePalma?tab=repositories&q=&type=&language=c%23&sort=" target="_blank">
       <img height="40" alt="C#" 
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    </a>
@@ -145,7 +145,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk bages-->
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="Dart e Flutter" href="https://github.com/GuilhermePalma?tab=dart" target="_blank">
+   <a title="Dart e Flutter" href="https://github.com/GuilhermePalma?tab=repositories&q=&type=&language=dart&sort=" target="_blank">
       <img height="40" alt="Dart e Flutter" 
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    </a>
