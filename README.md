@@ -12,7 +12,7 @@
    [![Estatisticas GitHub](https://github-readme-stats.vercel.app/api?username=guilhermePalma&count_private=true&show_icons=true)](https://github.com/GuilhermePalma)
 
    <p align="center">
-      :page_with_curl: Acesse meu <a target="_blank" href="#home">Currículo</a> ou <a target="_blank" href="Projects.md">Veja meus Projetos</a>
+      :page_with_curl: Acesse meu <a target="_blank" href="curriculos\CURRICULO_GUILHERME_PALMA_MOBILE.pdf">Currículo</a> ou <a target="_blank" href="Projects.md">Veja meus Projetos</a>
       <br/>
       <a href="https://github.com/GuilhermePalma/GuilhermePalma/blob/main/English_README.md">English Version Here</a> or
          <a href="https://github.com/GuilhermePalma/GuilhermePalma/blob/main/Français_README.md">Version Française Ici</a>
@@ -55,7 +55,7 @@
 
 <div align="center">
    <h5>Entre em Contato :smile:<h5/>
-      
+
    [![WhatsApp](https://img.shields.io/badge/WhatsApp-fff?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=55016997074866&text=Ola%20Guilherme,%20tudo%20bem%20?)
    [![Email GMAIL](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guippalma@gmail.com)
    [![Email Outlook](https://img.shields.io/badge/Microsoft_Outlook-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=blue)](mailto:guilherme.palma@fatec.sp.gov.br)
