@@ -1,4 +1,4 @@
-##  <samp>Oie, Eu me chamo</samp> [Guilherme Palma](https://www.linkedin.com/in/guilherme-peres-lins-da-palma) :smiley:👋
+## <samp>Oie, Eu me chamo</samp> [Guilherme Palma](https://www.linkedin.com/in/guilherme-peres-lins-da-palma) :smiley:👋
 
 <h4 align="center" id="home">
    <samp>:star2: Tecnolo em Desenvolvimento de Software Multiplataformas - :closed_book: <b>FATEC Osasco</b> :star2:</samp>
@@ -9,12 +9,7 @@
    <h4>Eu me chamo Guilherme Palma, Tenho 17 anos e sou Desenvolvedor de Software.</h4>
    <p>Sou Apaixonado pelo Desenvolvimento de APPs Mobile, mas também me aventuro no Desenvolvimento Web :laughing:</p>
 
-   <p align="center">
-     <a href="https://github.com/GuilhermePalma" target="_blank">
-         <img alt="Estatisticas GitHub" align="center"
-              src="https://github-readme-stats.vercel.app/api?username=guilhermePalma&count_private=true&show_icons=true" />
-     </a>
-   </p>
+   [![Estatisticas GitHub](https://github-readme-stats.vercel.app/api?username=guilhermePalma&count_private=true&show_icons=true)](https://github.com/GuilhermePalma)
 
    <p align="center">
       :page_with_curl: Acesse meu <a target="_blank" href="#home">Currículo</a> ou <a target="_blank" href="Projects.md">Veja meus Projetos</a>
@@ -60,13 +55,11 @@
 
 <div align="center">
    <h5>Entre em Contato :smile:<h5/>
-   <a href="https://api.whatsapp.com/send?phone=55016997074866&text=Ola%20Guilherme,%20tudo%20bem%20?" target="_blank"><img alt="WhatsApp"
-                 src="https://img.shields.io/badge/WhatsApp-fff?style=for-the-badge&logo=whatsapp" /></a>
-   <a href="mailto:guippalma@gmail.com" target="_blank"><img alt="Email"
-                 src="https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-   <a href="mailto:guilherme.palma@fatec.sp.gov.br" target="_blank"><img alt="Email"
-         src="https://img.shields.io/badge/Microsoft_Outlook-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" /></a>
-   <a href="https://www.linkedin.com/in/guilherme-peres-lins-da-palma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+      
+   [![WhatsApp](https://img.shields.io/badge/WhatsApp-fff?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=55016997074866&text=Ola%20Guilherme,%20tudo%20bem%20?)
+   [![Email GMAIL](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guippalma@gmail.com)
+   [![Email Outlook](https://img.shields.io/badge/Microsoft_Outlook-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=blue)](mailto:guilherme.palma@fatec.sp.gov.br)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/guilherme-peres-lins-da-palma)
 </div>
 
 
