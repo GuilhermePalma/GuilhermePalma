@@ -1,7 +1,7 @@
 ## <samp>Oie, Eu me chamo</samp> [Guilherme Palma](https://www.linkedin.com/in/guilherme-peres-lins-da-palma) :smiley:👋
 
 <h4 align="center" id="home">
-   <samp>:star2: Tecnolo em Desenvolvimento de Software Multiplataformas - :closed_book: <b>FATEC Osasco</b> :star2:</samp>
+   <samp>:star2: Tecnólogo em Desenvolvimento de Software Multiplataformas - :closed_book: <b>FATEC Osasco</b> :star2:</samp>
 </h4>
 
 <details align="center" id="home_menu">
