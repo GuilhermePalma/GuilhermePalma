@@ -6,7 +6,7 @@
 
 <details align="center" id="home_menu">
    <summary><samp id="home_menu">&#9776; Um pouco sobre mim 💬</samp></summary>
-   <h4>Eu me chamo Guilherme Palma, Tenho 17 anos e sou Desenvolvedor de Software.</h4>
+   <h4>Eu me chamo Guilherme Palma, Tenho 18 anos e sou Desenvolvedor de Software.</h4>
    <p>Sou Apaixonado pelo Desenvolvimento de APPs Mobile, mas também me aventuro no Desenvolvimento Web :laughing:</p>
 
    [![Estatisticas GitHub](https://github-readme-stats.vercel.app/api?username=guilhermePalma&count_private=true&show_icons=true)](https://github.com/GuilhermePalma)
@@ -19,25 +19,31 @@
    </p>
 </details>
 
-- **Linguagens e Frameworks**
+- **Linguagens**
     <br/>
-    ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat-square&logo=Flutter&logoColor=blue)
-    ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Android&logoColor=sucess)
+    ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=Dart&logoColor=blue)
+    ![Java (Android)](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Android&logoColor=sucess)
+    ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=blue)
     ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
     ![ASP .NET](https://img.shields.io/badge/-ASP%20.NET-333333?style=flat-square&logo=.net&logoColor=ffffff)
     ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=sucess)
     ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
     ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=blue)
-    ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=Dart&logoColor=blue)
     ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown&logoColor=white)
-    ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=jest)
+
+- **Frameworks**
+    <br/>
+    ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat-square&logo=Flutter&logoColor=blue)
+    ![Spring Bot](https://img.shields.io/badge/-Spring%20Bot-333333?style=flat-square&logo=spring)
+    ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat-square&logo=jest)
 
 - **Ferramentas de Desenvolvimento (IDEs e Editores de Codigo)**
     <br/>
     ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat-square&logo=AndroidStudio)
+    ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat-square&logo=intellij-idea&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=VisualStudioCode&logoColor=blue)
     ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=VisualStudio&logoColor=cc00cc)
-    ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse&logoColor=cc55cc)
+    ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse&logoColor=yellow)
 
 - **Outros Softwares**
     <br/>
@@ -99,7 +105,12 @@
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
    </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a title="PHP" href="github.com/GuilhermePalma?tab=repositories&q=&type=&language=php&sort=" target="_blank">
+   <a title="Java" href="https://github.com/GuilhermePalma?tab=repositories&q=&type=&language=java&sort=" target="_blank">
+      <img height="40" alt="Java"
+           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a title="PHP" href="https://github.com/GuilhermePalma?tab=repositories&q=&type=&language=php&sort=" target="_blank">
       <img height="40" alt="PHP"
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
    </a>
