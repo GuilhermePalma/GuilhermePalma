@@ -86,7 +86,7 @@
 
    <p></p>
 
-   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&langs_count=7&layout=compact)](https://wakatime.com/@guilhermePalma)
+   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermePalma&langs_count=16&layout=compact)](https://wakatime.com/@guilhermePalma)
 
    <br />
    <br />
