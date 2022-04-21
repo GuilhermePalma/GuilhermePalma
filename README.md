@@ -27,8 +27,6 @@
     ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=Csharp&logoColor=green)
     ![ASP .NET](https://img.shields.io/badge/-ASP%20.NET-333333?style=flat-square&logo=.net&logoColor=ffffff)
     ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=sucess)
-    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
-    ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=blue)
     ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown&logoColor=white)
 
 - **Frameworks**
@@ -37,7 +35,13 @@
     ![Spring Bot](https://img.shields.io/badge/-Spring%20Bot-333333?style=flat-square&logo=spring)
     ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat-square&logo=jest)
 
-- **Ferramentas de Desenvolvimento (IDEs e Editores de Codigo)**
+- **Banco de Dados (Relacionais e NoSQL)**
+    <br/>
+    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=MySQL)
+    ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=blue)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb)
+
+- **Ferramentas de Desenvolvimento (IDEs, Editores de Codigo)**
     <br/>
     ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat-square&logo=AndroidStudio)
     ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat-square&logo=intellij-idea&logoColor=white)
@@ -47,15 +51,18 @@
 
 - **Outros Softwares**
     <br/>
-    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-    ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-    ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat-square&logo=trello&logoColor=blue)
-    ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat-square&logo=notion)
+    ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase)
     ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=cc00cc)
-    ![Xampp](https://img.shields.io/badge/-XAMPP-333333?style=flat-square&logo=xampp)
+    ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
     ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
     ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat-square&logo=swagger)
     ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
+    ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat-square&logo=notion)
+    ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat-square&logo=trello&logoColor=blue)
+    ![Xampp](https://img.shields.io/badge/-XAMPP-333333?style=flat-square&logo=xampp)
+    
+    
 
 <br/>
 
